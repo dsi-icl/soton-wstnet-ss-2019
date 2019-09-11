@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "0ef23d1cb491375bcd61636e96ccb91bc57e5f62e5a0ff80016fc467e32a245d",
+  "properties": {
+    "timestamp": "2016-08-01T00:00:00Z",
+    "version": "1",
+    "changeset": "0",
+    "name": "Criminal damage and arson,Unable to prosecute suspect"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [ 
+        [ 
+          -1.133567,
+          51.357251
+        ],
+        [
+          -1.133567,
+          51.357251
+        ]
+      ]
+    ]
+  }
+}
+]
+}
